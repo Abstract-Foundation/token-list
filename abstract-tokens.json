@@ -30,5 +30,13 @@
     "decimals": 18,
     "chainId": 2741,
     "logoURI": "https://raw.githubusercontent.com/abstract-foundation/token-list/main/logos/2741/0x9eBe3A824Ca958e4b3Da772D2065518F009CBa62.png"
-  }
+  }'
+  {
+  "name": "IIIISOUL",
+  "address": "0x09c6E2b97230f49893d7793716136E12702E41eb",
+  "symbol": "IIIISOUL",
+  "decimals": 18,
+  "chainId": 2741,
+  "logoURI": "https://raw.githubusercontent.com/j6c6/token-list/main/logos/2741/0x09c6E2b97230f49893d7793716136E12702E41eb.png"
+}
 ]
